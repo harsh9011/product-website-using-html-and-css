@@ -1,0 +1,278 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#naseem {
+  color: rgb(255, 255, 255);
+}
+#n2 {
+  color: rgb(255, 255, 255);
+}
+#n3 {
+  color: rgb(0, 0, 0);
+}
+#n4 {
+  color: rgb(0, 0, 0);
+}
+#n5 {
+  color: rgb(0, 0, 0);
+}
+#n6 {
+  color: rgb(0, 0, 0);
+}
+#n37 {
+  color: rgb(0, 0, 0);
+}
+.top {
+  background-color: black;
+  text-align: center;
+  height: 40px;
+  width: 100%;
+}
+.top.upperHeading {
+  color: white;
+}
+#left {
+  color: aliceblue;
+  float: left;
+  margin-left: 300px;
+}
+#right {
+  float: right;
+  margin-right: 300px;
+}
+
+#logod {
+  height: 70px;
+  width: 150px;
+  margin: 20px;
+}
+#link {
+  color: black;
+  float: right;
+
+  margin-top: 50px;
+  margin-right: 550px;
+  text-align: center;
+}
+#lin {
+  color: black;
+  float: right;
+
+  margin-top: 50px;
+  margin-right: 100px;
+  text-align: center;
+}
+#li {
+  color: black;
+  float: right;
+
+  margin-top: 50px;
+  margin-right: 100px;
+  text-align: center;
+}
+#l {
+  color: black;
+  float: right;
+
+  margin-top: 50px;
+  margin-right: 100px;
+  text-align: center;
+}
+#ll {
+  color: black;
+  float: right;
+
+  margin-top: 50px;
+  margin-right: 100px;
+  text-align: center;
+}
+#flag {
+  background-color: black;
+  height: 30px;
+  width: 50px;
+  margin-left: 1200px;
+  margin-top: 0px;
+}
+.pp {
+  background: url("Banner_Desk_2000x.webp") no-repeat;
+  height: 650px;
+  width: 100%;
+}
+#qq {
+  float: right;
+  margin-right: 100px;
+  margin-top: 200px;
+  font-size: 50px;
+}
+#rrr {
+  margin-top: 350px;
+  margin-left: 900px;
+  font-size: 20px;
+}
+#TTT {
+  margin-left: 1200px;
+  height: 40px;
+  width: 120px;
+  border-radius: 20px;
+}
+#TTT:hover {
+  background-color: lightcoral;
+}
+#oioi {
+  text-align: center;
+  font-size: 50px;
+}
+#ioio {
+  text-align: center;
+  font-size: 30px;
+  letter-spacing: 2px;
+}
+#uiui {
+  margin-left: 700px;
+  height: 40px;
+  width: 120px;
+  border-radius: 20px;
+}
+#uiui:hover {
+  background-color: lightcoral;
+}
+.po {
+  background: url("Prodigy-series-lifestyle-2_large.webp") no-repeat;
+
+  height: 600px;
+  width: 500px;
+  font-size: 30px;
+  text-align: center;
+  margin-left: 50px;
+  transition: transform 1.0s;
+}
+.po:hover {
+  transform: scale(0.9);
+}
+#op {
+  font-size: 30px;
+  color: red;
+}
+.QQQ{
+    position: relative;
+    background: url("Mana-lifestyle-5_large.webp") no-repeat;
+    height: 600px;
+  width: 500px;
+  font-size: 30px;
+  text-align: center;
+  margin-left: 50px;
+  transition: transform 1.0s; 
+  margin-top: -600px; 
+  margin-left: 530px;
+}
+.QQQ:hover{
+    transform: scale(0.9);
+
+}
+.ccc{
+    background: url("Agent_1_large.webp")no-repeat;
+    
+    height: 700px;
+    width: 500px;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 50px;
+    transition: transform 1.0s; 
+    margin-top: -600px; 
+    margin-left: 1000px;
+
+}
+.ccc:hover{
+    transform: scale(0.9);}
+
+#cccc{
+  float: right;
+  margin-top: -200px;
+  height: 400px;
+  width: 700px;
+  
+}
+#sasa{
+  text-align: center;
+  margin-left: 30px;
+  font-size: 40px;
+  
+}
+#ili{
+  font-size: 21px;
+  text-align: center;
+}
+#nri{
+  margin-left: 400px;
+  height: 40px;
+  width: 120px;
+  border-radius: 20px;
+}
+#nri:hover{
+  background-color: lightcoral;
+}
+#olooo{
+  margin-left: -100px;
+  height: 500px;
+  
+ 
+}
+#sa{
+  text-align: center;
+  margin-left: 400px;
+  font-size: 40px;
+  margin-top: -500px;
+}
+#llo{
+  font-size: 23px;
+  margin-left: 500px;
+}
+#ri{
+  
+    margin-left: 900px;
+    height: 40px;
+    width: 120px;
+    border-radius: 20px;
+
+}
+#ri:hover{
+  background-color: lightcoral;}
+
+  #mmo{
+    
+    font-size: 30px;
+    text-align: center;
+  }
+  #mmo{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+  }
+  #MMMO{
+    margin-top: 300px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+  }
+  .mid{
+    background-color: black;
+  }
+  #liee{
+    color: white;
+    height: 0.01px;
+  }
+  #NNI{
+    text-align: center;
+    color: white;
+    font-size: 100px;
+    margin-top: 100px;
+    transition: transform 3.0s;
+  }
+  #NNI:hover{
+    transform: scale(1.9);
+    color: rgb(0, 255, 47);
+  }
+ 
+
+
